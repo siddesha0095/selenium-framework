@@ -193,4 +193,3 @@ logs/automation.log
 
 ---
 
-**Ready to go! Happy Testing! 🚀**
